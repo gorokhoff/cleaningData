@@ -1,5 +1,5 @@
 
-#Code Book
+#Script descriptions 
 
 This script run_analysis.R contains code to perform operations from course project.
 - 1. All data is loading in to environment
